@@ -1,0 +1,16 @@
+Algoritmo bucle_extra14
+	Definir n,nn, i, A  Como Entero
+	Leer  n	
+	nn=n
+	para i<- 1 hasta n Hacer
+		para A<-1 hasta nn hacer 
+			escribir Sin Saltar "*" 
+			
+		FinPara
+		nn=nn-1
+		
+		Escribir " "
+		
+	FinPara
+	
+FinAlgoritmo
